@@ -1,7 +1,7 @@
 export const Main = () => {
-	return (
-		<div>
-			<h1>My App</h1>
-		</div>
-	);
+  return (
+    <div>
+      <h1>App</h1>
+    </div>
+  );
 };
